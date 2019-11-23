@@ -1,3 +1,3 @@
-# sample-dependency package
+# sample-dependency-package
 
 A sample dependency package for testing.

@@ -1,0 +1,4 @@
+export { bar }
+
+foo : Number -> Number
+foo x = x

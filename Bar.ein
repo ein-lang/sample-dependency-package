@@ -1,4 +1,4 @@
 export { bar }
 
-foo : Number -> Number
-foo x = x
+bar : Number -> Number
+bar x = x
